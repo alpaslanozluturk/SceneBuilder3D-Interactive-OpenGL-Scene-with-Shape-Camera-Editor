@@ -1,1 +1,2 @@
 # SceneBuilder3D-Interactive-OpenGL-Scene-with-Shape-Camera-Editor
+#An OpenGL-based application that renders a 3D scene enclosed by five textured walls. Users can freely move within the scene, add new cameras or 3D shapes, and edit their properties via a GUI powered by the MinGUI library. Each object or camera can be customized with parameters such as texture file, scale, rotation behavior, position, and shape type. The system allows for real-time scene manipulation, offering an intuitive and interactive graphics development experience.
